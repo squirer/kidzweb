@@ -10,7 +10,7 @@ body,td,th {
 	font-family: "Comic Sans MS", cursive;
 }
 body{
-	background-color:#000;
+	background-color:#FF0000;
 	background-attachment:fixed;
 	background-image:url(../images/ak1.png), url(../images/ak.png);
 	background-repeat:no-repeat;
@@ -19,17 +19,17 @@ body{
 }
 h1{
 	font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
-	color: white;
+	color: yellow;
 }
 #wrapper {
-	background-color: #000;
+	background-color:  	#00FF00;
 	width: 800px;
 	margin-right: auto;
 	margin-left: auto;
 }
 #wrapper #logo {
 	height: 100px;
-	background-color: #FFF;
+	background-color:  	#00FF00;
 }
 #wrapper #navigation {
 	z-index:5;
@@ -64,7 +64,7 @@ h1{
 }
 #wrapper #navigation ul li {
 	z-index:5;
-	background-color: #666;
+	background-color: #0000FF;
 	float: left;
 	position: relative;
 	list-style-type: none;
@@ -76,13 +76,13 @@ h1{
 #wrapper #bodyArea #left {
 	width: 550px;
 	float: left;
-	background-color: #000;
+	background-color: FF6600;
 	font-color: #FFF;
 }
 #wrapper #bodyArea #right {
 	width: 250px;
 	float: right;
-	background-color:#000
+	background-color:FF6600
 }
 p {
 	font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
