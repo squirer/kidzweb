@@ -1,3 +1,13 @@
 HELLO WORLD!!
 
 latest edition
+
+
+PUSHING TO GIT:
+
+	after you have edited your files go to your git Bash program and type:
+	
+	     > git add *
+		 > git commit -m "(comments here of your updates to the project wrapped in quotations outside these brackets)"
+		 > git push origin master
+		 > it will then prompt you for ur git username and password
