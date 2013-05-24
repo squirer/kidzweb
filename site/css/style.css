@@ -12,10 +12,10 @@ body,td,th {
 body{
 	background-color:#FF0000;
 	background-attachment:fixed;
-	background-image:url(../images/ak1.png), url(../images/ak.png);
+	background-image:url(../images/cool4school.png), url(../images/cool4school.png);
 	background-repeat:no-repeat;
 	background-position:right center, left center;
-	background-size:213px 592px;
+	background-size:265px 400px;
 }
 h1{
 	font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
